@@ -1,6 +1,5 @@
-<h2>Eduardo Monta FECHA O PERFIL RATO</h2>
+<h2>Eduardo Monta</h2>
 <div>
-- FECHA ESSA PORCARIA 
 - Currently studing info at IFC Araquari </br>
 - <a href="https://instagram.com/1montandon?igshid=YmMyMTA2M2Y=">1montandon</a> in all socials 
 </div>
