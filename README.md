@@ -1,11 +1,11 @@
-<h3 align="center">Eduardo Montandon 👨🏽‍💻</h3>
+<h3 align="left">Eduardo Montandon 👨🏽‍💻</h3>
 <hr>
 
 
 
 ###
+<p align="left"> I am a Web Developer with hands-on experience in developing integrations and web systems. I currently work at Connect Think, where I focus on technical support and integration development using JavaScript and low-code platforms. I am dedicated to growing as a softwere developer by learning new technologies and continuously improving my skills. </p>
 
-<p align="left">📚 Web Developer<br>🔭 Currently working at Connect Think<br>🎓 Technical High School Degree in Informática para Internet from IFC Araquari<br>📖 Currently studying Internet Systems at UNIVALI (University of Vale do Itajaí)<br>👨🏽‍💻 Always learning and improving</p>
 
 ###
 
