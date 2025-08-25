@@ -4,7 +4,7 @@
 
 
 ###
-<p align="left"> I am a Web Developer with hands-on experience in developing integrations and web systems. I currently work at Connect Think, where I focus on technical support and integration development using JavaScript and low-code platforms. I am dedicated to growing as a softwere developer by learning new technologies and continuously improving my skills. </p>
+<p align="left"> I am a Web Developer with hands-on experience in developing integrations and web systems. I am dedicated to growing as a softwere developer by learning new technologies and continuously improving my skills. </p>
 
 
 ###
