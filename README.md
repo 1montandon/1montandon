@@ -1,4 +1,4 @@
-<h3 align="left">Eduardo Montandon 👨🏽‍💻</h3>
+<h3 align="left">Eduardo Montandon </h3>
 <hr>
 
 
